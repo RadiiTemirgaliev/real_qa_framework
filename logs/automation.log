@@ -150,3 +150,108 @@
 12/19/2023 09:23:27 PM ################### Test Case: test_text_box ######################
 12/19/2023 09:23:27 PM Browser is maximized
 12/19/2023 09:23:34 PM Screenshot is created
+12/19/2023 09:35:43 PM Applicable driver not found; attempting to install with Selenium Manager (Beta)
+12/19/2023 09:35:48 PM Browser <selenium.webdriver.firefox.webdriver.WebDriver (session="def5c602-251e-418c-bff6-f0ad4c046c03")> is opend
+12/19/2023 09:35:48 PM ################### Test Case: test_text_box ######################
+12/19/2023 09:35:48 PM Browser is maximized
+12/19/2023 09:35:52 PM Screenshot is created
+12/23/2023 07:52:20 PM Applicable driver not found; attempting to install with Selenium Manager (Beta)
+12/23/2023 07:52:26 PM Browser <selenium.webdriver.firefox.webdriver.WebDriver (session="00c72f89-39d5-4f2b-9b7b-5bdc4ab740df")> is opend
+12/23/2023 07:52:26 PM ################### Test Case: test_check_box ######################
+12/23/2023 07:52:26 PM Browser is maximized
+12/23/2023 07:52:31 PM Screenshot is created
+12/23/2023 07:55:12 PM Applicable driver not found; attempting to install with Selenium Manager (Beta)
+12/23/2023 07:55:17 PM Browser <selenium.webdriver.firefox.webdriver.WebDriver (session="7a11ad3d-51b0-458a-a8a8-41f1dd5f4449")> is opend
+12/23/2023 07:55:17 PM ################### Test Case: test_check_box ######################
+12/23/2023 07:55:18 PM Browser is maximized
+12/23/2023 07:55:21 PM Screenshot is created
+12/23/2023 07:55:39 PM Applicable driver not found; attempting to install with Selenium Manager (Beta)
+12/23/2023 07:55:44 PM Browser <selenium.webdriver.firefox.webdriver.WebDriver (session="b49e37ff-d45b-4d17-8b83-8b7da6fd38c3")> is opend
+12/23/2023 07:55:44 PM ################### Test Case: test_check_box ######################
+12/23/2023 07:55:44 PM Browser is maximized
+12/23/2023 07:55:48 PM Screenshot is created
+12/25/2023 03:07:05 PM Applicable driver not found; attempting to install with Selenium Manager (Beta)
+12/25/2023 03:07:10 PM Browser <selenium.webdriver.firefox.webdriver.WebDriver (session="06b3d155-2c56-451c-85cf-dbdb30e82131")> is opend
+12/25/2023 03:07:10 PM ################### Test Case: test_text_box ######################
+12/25/2023 03:07:11 PM Browser is maximized
+12/25/2023 03:07:15 PM Screenshot is created
+12/25/2023 03:07:22 PM Applicable driver not found; attempting to install with Selenium Manager (Beta)
+12/25/2023 03:07:27 PM Browser <selenium.webdriver.firefox.webdriver.WebDriver (session="143af147-8653-42be-87d6-56b0640de132")> is opend
+12/25/2023 03:07:27 PM ################### Test Case: test_check_box ######################
+12/25/2023 03:07:28 PM Browser is maximized
+12/25/2023 03:07:32 PM Screenshot is created
+12/25/2023 03:35:21 PM Applicable driver not found; attempting to install with Selenium Manager (Beta)
+12/25/2023 03:35:26 PM Browser <selenium.webdriver.firefox.webdriver.WebDriver (session="cc479327-d5d3-43cd-b999-4d0813fed9e6")> is opend
+12/25/2023 03:35:26 PM ################### Test Case: test_check_box ######################
+12/25/2023 03:35:27 PM Browser is maximized
+12/25/2023 03:35:30 PM Screenshot is created
+12/25/2023 03:45:34 PM Applicable driver not found; attempting to install with Selenium Manager (Beta)
+12/25/2023 03:45:39 PM Browser <selenium.webdriver.firefox.webdriver.WebDriver (session="03f9fe3b-caa4-4bf2-a44e-39c94402ec07")> is opend
+12/25/2023 03:45:39 PM ################### Test Case: test_check_box ######################
+12/25/2023 03:45:39 PM Browser is maximized
+12/25/2023 03:45:42 PM Screenshot is created
+12/25/2023 03:48:23 PM Applicable driver not found; attempting to install with Selenium Manager (Beta)
+12/25/2023 03:48:28 PM Browser <selenium.webdriver.firefox.webdriver.WebDriver (session="74f77df5-70de-4423-8dae-304f8d18bf4f")> is opend
+12/25/2023 03:48:28 PM ################### Test Case: test_check_box ######################
+12/25/2023 03:48:28 PM Browser is maximized
+12/25/2023 03:48:31 PM Screenshot is created
+12/25/2023 03:49:29 PM Applicable driver not found; attempting to install with Selenium Manager (Beta)
+12/25/2023 03:49:34 PM Browser <selenium.webdriver.firefox.webdriver.WebDriver (session="aa398126-b1ab-4c52-ad4b-c18efc8f5a80")> is opend
+12/25/2023 03:49:34 PM ################### Test Case: test_check_box ######################
+12/25/2023 03:49:34 PM Browser is maximized
+12/25/2023 03:49:37 PM Screenshot is created
+12/25/2023 04:00:28 PM Applicable driver not found; attempting to install with Selenium Manager (Beta)
+12/25/2023 04:00:33 PM Browser <selenium.webdriver.firefox.webdriver.WebDriver (session="9ed21c77-21e5-40a1-9a9f-2ce29f25ac4e")> is opend
+12/25/2023 04:00:33 PM ################### Test Case: test_check_box ######################
+12/25/2023 04:00:33 PM Browser is maximized
+12/25/2023 04:00:36 PM Screenshot is created
+12/25/2023 04:03:02 PM Applicable driver not found; attempting to install with Selenium Manager (Beta)
+12/25/2023 04:03:07 PM Browser <selenium.webdriver.firefox.webdriver.WebDriver (session="66527eaa-2354-4fcc-a6e9-fd053256ddb2")> is opend
+12/25/2023 04:03:07 PM ################### Test Case: test_check_box ######################
+12/25/2023 04:03:07 PM Browser is maximized
+12/25/2023 04:03:15 PM Screenshot is created
+12/25/2023 04:06:38 PM Applicable driver not found; attempting to install with Selenium Manager (Beta)
+12/25/2023 04:06:43 PM Browser <selenium.webdriver.firefox.webdriver.WebDriver (session="c682a96e-30de-4b31-a613-25511e916742")> is opend
+12/25/2023 04:06:43 PM ################### Test Case: test_check_box ######################
+12/25/2023 04:06:43 PM Browser is maximized
+12/25/2023 04:06:51 PM Screenshot is created
+12/25/2023 04:09:27 PM Applicable driver not found; attempting to install with Selenium Manager (Beta)
+12/25/2023 04:09:32 PM Browser <selenium.webdriver.firefox.webdriver.WebDriver (session="2233619a-8c33-4c4a-a33b-8b32559be174")> is opend
+12/25/2023 04:09:32 PM ################### Test Case: test_check_box ######################
+12/25/2023 04:09:32 PM Browser is maximized
+12/25/2023 04:09:43 PM Screenshot is created
+12/25/2023 04:13:10 PM Applicable driver not found; attempting to install with Selenium Manager (Beta)
+12/25/2023 04:13:15 PM Browser <selenium.webdriver.firefox.webdriver.WebDriver (session="c1130f7f-ef7a-40fe-a5e5-5f4f9db996c8")> is opend
+12/25/2023 04:13:15 PM ################### Test Case: test_check_box ######################
+12/25/2023 04:13:15 PM Browser is maximized
+12/25/2023 04:13:23 PM Screenshot is created
+12/25/2023 04:20:42 PM Applicable driver not found; attempting to install with Selenium Manager (Beta)
+12/25/2023 04:20:47 PM Browser <selenium.webdriver.firefox.webdriver.WebDriver (session="a8c462fd-8491-4ac6-ad62-3d2a71b3e014")> is opend
+12/25/2023 04:20:47 PM ################### Test Case: test_check_box ######################
+12/25/2023 04:20:47 PM Browser is maximized
+12/25/2023 04:20:55 PM Screenshot is created
+12/25/2023 04:22:11 PM Applicable driver not found; attempting to install with Selenium Manager (Beta)
+12/25/2023 04:22:16 PM Browser <selenium.webdriver.firefox.webdriver.WebDriver (session="451d691e-b91e-4fda-a7a8-211a23b99597")> is opend
+12/25/2023 04:22:16 PM ################### Test Case: test_check_box ######################
+12/25/2023 04:22:16 PM Browser is maximized
+12/25/2023 04:22:24 PM Screenshot is created
+12/25/2023 04:28:27 PM Applicable driver not found; attempting to install with Selenium Manager (Beta)
+12/25/2023 04:28:32 PM Browser <selenium.webdriver.firefox.webdriver.WebDriver (session="9563d3cd-636f-45b5-beb2-a2fa28ece071")> is opend
+12/25/2023 04:28:32 PM ################### Test Case: test_check_box ######################
+12/25/2023 04:28:32 PM Browser is maximized
+12/25/2023 04:28:40 PM Screenshot is created
+12/25/2023 04:30:55 PM Applicable driver not found; attempting to install with Selenium Manager (Beta)
+12/25/2023 04:31:00 PM Browser <selenium.webdriver.firefox.webdriver.WebDriver (session="e9abe640-98b2-4730-96af-7541347b931c")> is opend
+12/25/2023 04:31:00 PM ################### Test Case: test_check_box ######################
+12/25/2023 04:31:01 PM Browser is maximized
+12/25/2023 04:31:10 PM Screenshot is created
+12/25/2023 04:48:02 PM Applicable driver not found; attempting to install with Selenium Manager (Beta)
+12/25/2023 04:48:07 PM Browser <selenium.webdriver.firefox.webdriver.WebDriver (session="e8fae8c5-76fa-48fd-8ca8-b73c4e8cb5a0")> is opend
+12/25/2023 04:48:07 PM ################### Test Case: test_check_box ######################
+12/25/2023 04:48:07 PM Browser is maximized
+12/25/2023 04:48:21 PM Screenshot is created
+12/25/2023 04:49:13 PM Applicable driver not found; attempting to install with Selenium Manager (Beta)
+12/25/2023 04:49:18 PM Browser <selenium.webdriver.firefox.webdriver.WebDriver (session="4fc07289-4dd7-4b2f-9bbd-6d4085ece9f8")> is opend
+12/25/2023 04:49:18 PM ################### Test Case: test_check_box ######################
+12/25/2023 04:49:18 PM Browser is maximized
+12/25/2023 04:49:27 PM Screenshot is created
