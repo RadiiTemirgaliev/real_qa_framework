@@ -1117,3 +1117,128 @@ LH.prototype.ba@https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m20
 
 Dynamically enable window occlusion 1
 JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1703542369302	geckodriver	INFO	Listening on 127.0.0.1:59830
+1703542372338	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59831" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileKpPH4V"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1703542372608	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1703542372663	Marionette	INFO	Listening on port 59840
+WebDriver BiDi listening on ws://127.0.0.1:59831
+Read port: 59840
+1703542372820	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59831/devtools/browser/2eab496f-b720-47f4-ba43-7e078a7b306e
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+JavaScript error: https://cdn.ad.plus/player/adplus.js, line 414: TypeError: c(...).setup is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Dtt_-LR3WxpzwV0Gscftq1A_D1owstvxoTnWWhwY4Ow.js line 2 > eval line 3958 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1703542377858	Marionette	INFO	Stopped listening on port 59840
+JavaScript warning: https://cdn.ampproject.org/rtv/012310301456000/v0/amp-analytics-0.1.mjs, line 2: Script terminated by timeout at:
+Gi@https://cdn.ampproject.org/rtv/012310301456000/v0/amp-analytics-0.1.mjs:2:18152
+f/expandTemplate/<@https://cdn.ampproject.org/rtv/012310301456000/v0/amp-analytics-0.1.mjs:2:96157
+f/expandTemplate/<@https://cdn.ampproject.org/rtv/012310301456000/v0/amp-analytics-0.1.mjs:2:95843
+f/expandTemplate/<@https://cdn.ampproject.org/rtv/012310301456000/v0/amp-analytics-0.1.mjs:2:95738
+expandTemplate@https://cdn.ampproject.org/rtv/012310301456000/v0/amp-analytics-0.1.mjs:2:95944
+XEt@https://cdn.ampproject.org/rtv/012310301456000/v0/amp-analytics-0.1.mjs:2:59364
+send@https://cdn.ampproject.org/rtv/012310301456000/v0/amp-analytics-0.1.mjs:2:58881
+_Rt@https://cdn.ampproject.org/rtv/012310301456000/v0/amp-analytics-0.1.mjs:2:85573
+f/fRt/<@https://cdn.ampproject.org/rtv/012310301456000/v0/amp-analytics-0.1.mjs:2:85422
+
+Dynamically enable window occlusion 1
+1703542385012	geckodriver	INFO	Listening on 127.0.0.1:59944
+1703542388095	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59945" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile1nz5K2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1703542388364	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1703542388419	Marionette	INFO	Listening on port 59954
+WebDriver BiDi listening on ws://127.0.0.1:59945
+Read port: 59954
+1703542388473	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59945/devtools/browser/12fbae82-3760-435a-a03c-bad47abe6e17
+JavaScript error: https://cdn.ad.plus/player/adplus.js, line 414: TypeError: c(...).setup is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Dtt_-LR3WxpzwV0Gscftq1A_D1owstvxoTnWWhwY4Ow.js line 2 > eval line 2917 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1703542394741	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1703542397588	Marionette	INFO	Stopped listening on port 59954
+JavaScript warning: https://jsc.mgid.com/a/d/ad.plus.1461777.es6.js, line 102: Script terminated by timeout at:
+Ni</_createWorker/</this.app.context._mgqi<@https://jsc.mgid.com/a/d/ad.plus.1461777.es6.js:102:34613
+
+JavaScript warning: https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202312060101/pubads_impl.js, line 10: Script terminated by timeout at:
+kH@https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202312060101/pubads_impl.js:10:235105
+MH@https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202312060101/pubads_impl.js:10:248662
+LH.prototype.ba@https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202312060101/pubads_impl.js:10:248567
+
+Dynamically enable window occlusion 1
+1703549508690	geckodriver	INFO	Listening on 127.0.0.1:49822
+1703549511771	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49823" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilezQaoTp"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1703549512113	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1703549512176	Marionette	INFO	Listening on port 49834
+WebDriver BiDi listening on ws://127.0.0.1:49823
+Read port: 49834
+1703549512347	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49823/devtools/browser/a115609c-46ec-4662-8e7b-238a924459cb
+JavaScript error: https://cdn.ad.plus/player/adplus.js, line 414: TypeError: c(...).setup is not a function
+1703549518977	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1703549520726	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Dtt_-LR3WxpzwV0Gscftq1A_D1owstvxoTnWWhwY4Ow.js line 2 > eval line 2551 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1703549526261	Marionette	INFO	Stopped listening on port 49834
+JavaScript warning: https://jsc.mgid.com/a/d/ad.plus.1461777.es6.js, line 102: Script terminated by timeout at:
+Ni</_createWorker/</this.app.context._mgqi<@https://jsc.mgid.com/a/d/ad.plus.1461777.es6.js:102:34613
+
+JavaScript warning: https://cdn.ampproject.org/rtv/012310301456000/amp4ads-v0.mjs, line 2: Script terminated by timeout at:
+Do/delay/<@https://cdn.ampproject.org/rtv/012310301456000/amp4ads-v0.mjs:2:107301
+
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1703550244224	geckodriver	INFO	Listening on 127.0.0.1:50732
+1703550247298	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50733" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile4kzFbF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1703550247583	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1703550247642	Marionette	INFO	Listening on port 50743
+WebDriver BiDi listening on ws://127.0.0.1:50733
+Read port: 50743
+1703550247803	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50733/devtools/browser/7d9585e3-6105-4b1c-bc36-987a35f499d9
+JavaScript error: https://cdn.ad.plus/player/adplus.js, line 414: TypeError: c(...).setup is not a function
+1703550254574	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1703550255299	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Dtt_-LR3WxpzwV0Gscftq1A_D1owstvxoTnWWhwY4Ow.js line 2 > eval line 3513 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1703550256716	Marionette	INFO	Stopped listening on port 50743
+JavaScript warning: https://jsc.mgid.com/a/d/ad.plus.1461776.es6.js, line 109: Script terminated by timeout at:
+Ni</_createWorker/</this.app.context._mgqi<@https://jsc.mgid.com/a/d/ad.plus.1461776.es6.js:109:37872
+
+JavaScript warning: https://tags.crwdcntrl.net/lt/c/16589/sync.min.js, line 1: Script terminated by timeout at:
+sync16589_2.prototype.O/<@https://tags.crwdcntrl.net/lt/c/16589/sync.min.js:1:30610
+
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1703550629080	geckodriver	INFO	Listening on 127.0.0.1:51334
+1703550632151	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51335" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile9eEe0d"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1703550632430	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1703550632485	Marionette	INFO	Listening on port 51344
+Read port: 51344
+WebDriver BiDi listening on ws://127.0.0.1:51335
+1703550632541	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51335/devtools/browser/8b9cd548-d319-44c3-b500-36a105a9f7a5
+JavaScript error: https://cdn.ad.plus/player/adplus.js, line 414: TypeError: c(...).setup is not a function
+1703550639591	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Dtt_-LR3WxpzwV0Gscftq1A_D1owstvxoTnWWhwY4Ow.js line 2 > eval line 4230 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1703550641970	Marionette	INFO	Stopped listening on port 51344
+JavaScript warning: https://jsc.mgid.com/a/d/ad.plus.1461776.es6.js, line 109: Script terminated by timeout at:
+Ni</_createWorker/</this.app.context._mgqi<@https://jsc.mgid.com/a/d/ad.plus.1461776.es6.js:109:37872
+
+JavaScript warning: https://tags.crwdcntrl.net/lt/c/16589/sync.min.js, line 1: Script terminated by timeout at:
+sync16589_2.prototype.O/<@https://tags.crwdcntrl.net/lt/c/16589/sync.min.js:1:30610
+
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.

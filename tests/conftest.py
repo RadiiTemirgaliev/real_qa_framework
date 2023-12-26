@@ -9,7 +9,7 @@ import os
 @pytest.fixture(scope='function')
 def driver():
     driver = webdriver.Firefox()
-    logger.info(f'Browser {driver} is opend')
+    logger.info('Browser is opend')
     test_name = os.environ.get('PYTEST_CURRENT_TEST').split(':')[-1].split(' ')[0]
     logger.info(f'################### Test Case: {test_name} ######################')
     driver.maximize_window()
