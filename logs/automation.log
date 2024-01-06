@@ -334,3 +334,8 @@
 01/06/2024 01:45:05 PM ################### Test Case: test_different_click_on_the_buttons ######################
 01/06/2024 01:45:05 PM Browser is maximized
 01/06/2024 01:45:12 PM Screenshot is created
+01/06/2024 01:47:34 PM Applicable driver not found; attempting to install with Selenium Manager (Beta)
+01/06/2024 01:47:39 PM Browser is opend
+01/06/2024 01:47:39 PM ################### Test Case: test_different_click_on_the_buttons ######################
+01/06/2024 01:47:40 PM Browser is maximized
+01/06/2024 01:47:49 PM Screenshot is created
