@@ -100,16 +100,34 @@ class TestElements:
 
     class TestButtonPage:
 
-        def test_different_click_on_the_buttons(self, driver):
+        # def test_different_click_on_the_buttons(self, driver):
+        #     button_page = ButtonsPage(driver, 'https://demoqa.com/buttons')
+        #     button_page.open()
+        #     double = button_page.click_on_different_button('double') 
+        #     right = button_page.click_on_different_button('right') 
+        #     click = button_page.click_on_different_button('click') 
+        #     assert double == 'You have done a double click'
+        #     assert right == 'You have done a right click'
+        #     assert click == 'You have done a dynamic click'
+
+        def test_double_click_button(self, driver):
             button_page = ButtonsPage(driver, 'https://demoqa.com/buttons')
             button_page.open()
-            double = button_page.click_on_different_button('double') 
-            right = button_page.click_on_different_button('right') 
-            click = button_page.click_on_different_button('click') 
+            double = button_page.click_double_click_button()
             assert double == 'You have done a double click'
-            assert right == 'You have done a right click'
-            assert click == 'You have done a dynamic click'
 
+        def test_right_click_button(self, driver):
+            button_page = ButtonsPage(driver, 'https://demoqa.com/buttons')
+            button_page.open()
+            double = button_page.click_right_click_button()
+            assert double == 'You have done a right click'
+
+        def test_click_button(self, driver):
+            button_page = ButtonsPage(driver, 'https://demoqa.com/buttons')
+            button_page.open()
+            double = button_page.click_button()
+            assert double == 'You have done a dynamic click'
+            
 
 
 
