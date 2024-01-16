@@ -3,7 +3,7 @@ import random
 from time import sleep
 import time
 from selenium.webdriver.chrome.webdriver import WebDriver
-from pages.elements_page import ButtonsPage, CheckBoxPage, RadioButtonPage, TextBoxPage, WebTablePage
+from pages.elements_page import ButtonsPage, CheckBoxPage, LinksPage, RadioButtonPage, TextBoxPage, WebTablePage
 from logs.logger import logger
 
 class TestElements:
@@ -127,6 +127,21 @@ class TestElements:
             button_page.open()
             double = button_page.click_button()
             assert double == 'You have done a dynamic click'
+
+    
+    class TestLinksPage:
+
+        def test_check_link(self, driver):
+            links_page = LinksPage(driver, 'https://demoqa.com/links')
+            links_page.open()
+            href_link, current_url = links_page.check_new_tab_simple_link()
+            assert href_link == current_url
+
+        def test_broken_link(self, driver):
+            links_page = LinksPage(driver, 'https://demoqa.com/links')
+            links_page.open()
+            response_code = links_page.check_broken_link('https://demoqa.com/bad-request')
+            assert response_code == 400
             
 
 
